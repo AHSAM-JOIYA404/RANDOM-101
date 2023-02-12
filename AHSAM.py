@@ -1,3 +1,5 @@
+
+
 from bs4 import BeautifulSoup as sop
  
 from concurrent.futures import ThreadPoolExecutor as tred
@@ -154,7 +156,7 @@ logo = """
              \033[1;37m|/     \|(_______)|/     \|\033[1;35mPRO\033[1;37m
 \033[1;37m  ╚═══════════════════════════════════════════╝
 \x1b[1;92m┏─────────────────────────────────────────┓
-\x1b[1;92m│\x1b[1;97m [\x1b[1;92m+\x1b[1;97m]  \x1b[1;92m AUTHOR     \x1b[1;97m: \x1b[1;92mAHSAM X ALINA     
+\x1b[1;92m│\x1b[1;97m [\x1b[1;92m+\x1b[1;97m]  \x1b[1;92m AUTHOR     \x1b[1;97m: \x1b[1;92mAHSAM UL HAQ JOIYA     
 \x1b[1;92m│\x1b[1;97m [\x1b[1;92m+\x1b[1;97m]  \x1b[1;92m FACEBOOK   \x1b[1;97m: \x1b[1;92mAHSAM UL HAQ               
 \x1b[1;92m│\x1b[1;97m [\x1b[1;92m+\x1b[1;97m]  \x1b[1;92m WHATSAPP   \x1b[1;97m: \x1b[1;92m+923411471937              
 \x1b[1;92m│\x1b[1;97m [\x1b[1;92m+\x1b[1;97m]  \x1b[1;92m STATUS     \x1b[1;97m: \x1b[1;92mRANDOM CLONING 
